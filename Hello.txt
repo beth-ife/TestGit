@@ -1,2 +1,4 @@
 My name is Ife. I am learning git.
-Created development branch
+Created development branch.
+
+Osaetin added a new line.
